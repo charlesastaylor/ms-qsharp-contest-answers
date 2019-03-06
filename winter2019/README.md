@@ -1,0 +1,1 @@
+[Editorial](https://assets.codeforces.com/rounds/1116/contest-editorial.pdf)
